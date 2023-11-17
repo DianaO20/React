@@ -1,0 +1,13 @@
+.App{
+  color: rgb(2, 48, 132);
+}
+
+.Input{
+  background-color: rgb(198, 201, 250);
+  height: 22px;
+  border: none;
+  border-bottom: 1px solid rgb(43, 0, 255);
+  border-radius: 3px;
+  width: 175px;
+
+}
